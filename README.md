@@ -57,44 +57,5 @@ Example: List the names of customers who made payments over ₹3000.
 ## ▶️ How to Use
 
 1. **Clone the Repository:**
-   ```bash
    git clone https://github.com/yourusername/ecommerce-sales-analysis-sql.git
    cd ecommerce-sales-analysis-sql
-Run in SQL Environment (MySQL or compatible):
-
-Load schema.sql to create the database and tables.
-
-Run data.sql to insert sample data.
-
-Execute query.sql to perform analysis and view results.
-
-Tools You Can Use:
-
-MySQL Workbench
-
-DBeaver
-
-phpMyAdmin
-
-XAMPP / WAMP
-
-📚 What I Learned
-Designing relational schema for e-commerce data
-
-Writing efficient SQL queries to derive business insights
-
-Applying joins and aggregations for multi-table analysis
-
-Handling real-world business logic with SQL
-
-Analyzing trends in payments and logistics
-
-👩‍💻 Author
-Sejal Yadav
-BSc Computer Science Student | Aspiring Data Analyst
-📫 [your.email@example.com]
-🔗 [GitHub Profile Link] | [LinkedIn Profile Link]
-
-📝 License
-This project is open-source and free to use for learning and educational purposes.
-
